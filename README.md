@@ -1,1 +1,0 @@
-# ftjavinesIII.github.io

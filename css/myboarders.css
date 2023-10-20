@@ -1,0 +1,39 @@
+text-justify: auto;
+
+body {
+  background-color: lightblue;
+  font-size: 100%;
+  padding-top: 50%;
+  padding-bottom: 50%;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+/*	text-indent: 25px; */
+	line-height: 1;
+	color: black;
+	font-weight: normal;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.hwlogo {
+  height: 100px;
+  width: 100px;
+}
+
+.pdlogo {
+  padding-left: 14px;
+}
+

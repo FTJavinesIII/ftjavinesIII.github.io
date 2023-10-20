@@ -1,0 +1,6 @@
+/* importing of  stylesheets for reset and formatting */
+
+@import url("reset.css");
+@import url("myboarders.css");
+
+/* end import/hide */
